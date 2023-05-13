@@ -1,0 +1,5 @@
+a programming language is a system of notation for writing computer programs. most programming languages are text-based formal languages, but they may also be graphical. they are a kind of computer language.
+
+the description of a programming language is usually split into the two components of syntax (form) and semantics (meaning), which are usually defined by a formal language. some languages are defined by a specification document (for example, the c programming language is specified by an iso standard) while other languages (such as perl) have a dominant implementation that is treated as a reference. some languages have both, with the basic language defined by a standard and extensions taken from the dominant implementation being common.
+
+programming language theory is the subfield of computer science that studies the design, implementation, analysis, characterization, and classification of programming languages.
